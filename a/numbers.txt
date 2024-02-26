@@ -7,6 +7,6 @@ I believe it's going to be similiar to:
 
 1. Changing Commit 1.
 2. Commit 2.
-3. 
+3. Commit 3.
 4. 
 5. 
