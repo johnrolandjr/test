@@ -6,7 +6,7 @@ I believe it's going to be similiar to:
     git checkout <remote_branch>
 
 1. I'm changing the first commit.
-2.
+2. Here's the second commit on the stack.
 3. 
 4. 
 5. 
