@@ -7,6 +7,6 @@ I believe it's going to be similiar to:
 
 1. I'm changing the first commit.
 2. Making a change to PR #2.
-3. 
+3. New "feature" just dropped.
 4. 
 5. 
