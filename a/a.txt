@@ -1,1 +1,18 @@
 Here's my first file.
+
+void foo(void);
+
+void main(void * argv)
+{
+	// Insert code here
+	foo();
+
+	while(1)
+	{	
+	}
+}
+
+void foo(void)
+{
+	return;
+}
