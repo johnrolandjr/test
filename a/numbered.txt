@@ -6,7 +6,7 @@ I believe it's going to be similiar to:
     git checkout <remote_branch>
 
 1. s;ldfkjsadf
-2.
+2. hello
 3.
 4.
 5.
