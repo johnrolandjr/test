@@ -7,8 +7,8 @@
 
 set -eu
 
-DIRECTIVE='wchargin-branch'  # any regex metacharacters should be escaped
-BRANCH_PREFIX='wchargin-'
+DIRECTIVE='brname'  # any regex metacharacters should be escaped
+BRANCH_PREFIX='phife-'
 
 target_branch() {
     directive="$( \
