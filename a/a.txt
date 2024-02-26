@@ -1,1 +1,10 @@
 Here's my first file.
+
+void main(void * argv)
+{
+	// Insert code here
+
+	while(1)
+	{	
+	}
+}
