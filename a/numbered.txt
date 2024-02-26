@@ -1,0 +1,12 @@
+Here's a numbered list to check whether we can checkout different commits.
+Similar to:
+    git checkout refs/changes/######/<change #>
+I believe it's going to be similiar to:
+    git fetch
+    git checkout <remote_branch>
+
+1.
+2.
+3.
+4.
+5.
